@@ -1,0 +1,33 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+    background: #f5dbda;
+}
+.header_div{
+background:skyblue ;
+color:rgb(7, 79, 79) ;
+}
+.header_div p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(7, 79, 79);
+    letter-spacing: 2px;
+    font-size: 19px;
+    font-weight: bolder;
+}
+.main_div button{
+    font-family: 'Lobster Two', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #547ca0;
+    bottom:0;
+    width: 100%;
+    font-size: 25px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 15px 3px rgb(140, 46, 46);
+}
